@@ -7,9 +7,12 @@ my projects were something like behavioral biometrics on Android or even my new 
 AI desktop companion powered by local LLMs.
 
 🔭 Currently building: A local AI desktop companion (Python, PySide6, Ollama)
+
 🎓 Final Year Project: Continuous Authentication via Gesture, Pressure and 
    Timing Patterns on Android (Kotlin)
+   
 🌱 Interested in: embedded systems, on-device ML, systems security
+
 📫 Reach me: joshjones9929@gmail.com
 
 ⚡ When I'm not coding: military vehicle and equipment enthusiast

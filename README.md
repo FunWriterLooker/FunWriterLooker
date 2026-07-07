@@ -15,7 +15,6 @@ AI desktop companion powered by local LLMs.
 
 📫 Reach me: joshjones9929@gmail.com
 
-⚡ When I'm not coding: military vehicle and equipment enthusiast
 
 <!---
 
